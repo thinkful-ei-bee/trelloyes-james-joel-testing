@@ -1,8 +1,8 @@
 import React from 'react';
-import Card from '../card/index';
+import Card from '../card/card';
 
 const AppList = (props) => {
-  //console.log(props);
+
   const lists = props.store.lists.map((list) => (
     <section className="List" key={list.id}>
     <header className="List-header">

@@ -1,5 +1,5 @@
 import React from 'react';
-import AppList from './component/appList/index';
+import AppList from './component/applist/applist';
 import STORE from './store/store';
 
 function App(){
@@ -15,7 +15,7 @@ function App(){
       
     </main>
   )
-  
+
 }
 
 export default App;
