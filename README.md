@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Original project form 3-18-19, transferred here for testing purposes.
+Original repo: https://github.com/thinkful-ei-bee/trelloyes-enrique-joel
 
 ## Available Scripts
 
