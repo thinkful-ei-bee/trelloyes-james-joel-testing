@@ -1,5 +1,5 @@
 import React from 'react';
-import AppList from './applist';
+import AppList from './component/appList/index';
 import STORE from './store/store';
 
 function App(){
